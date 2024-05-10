@@ -1,23 +1,23 @@
 [
   {
-    "tresc": "Stolicą Polski było",
-    "odpa": "Wilkowyje",
-    "odpb": "Gniezno",
-    "odpc": "Kowno",
-    "poprawna": 1
+    "nazwa": "Monopoly",
+    "minwiek": 3,
+    "minliczba": 2,
+    "maxliczba": 8,
+    "czasgry": 60
   },
   {
-    "tresc": "Prezydentem Polski był",
-    "odpa": "Jarosław Kaczyński",
-    "odpb": "Lecha Wałęsa",
-    "odpc": "Paweł Kozioł",
-    "poprawna": 1
+    "nazwa": "uno",
+    "minwiek": 3,
+    "minliczba": 2,
+    "maxliczba": 8,
+    "czasgry": 15
   },
   {
-    "tresc": "Ostatnie wybory to wybory",
-    "odpa": "parlamentarne",
-    "odpb": "prezydenckie",
-    "odpc": "samorządowe",
-    "poprawna": 2
+    "nazwa": "5 sekund",
+    "minwiek": 3,
+    "minliczba": 2,
+    "maxliczba": 4,
+    "czasgry": 30
   }
 ]
