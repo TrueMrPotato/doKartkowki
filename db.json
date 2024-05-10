@@ -1,4 +1,5 @@
-[
+{
+  "planszowki" : [
   {
     "nazwa": "Monopoly",
     "minwiek": 3,
@@ -21,3 +22,4 @@
     "czasgry": 30
   }
 ]
+}
